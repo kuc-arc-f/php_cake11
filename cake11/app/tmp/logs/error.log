@@ -1,0 +1,259 @@
+2013-11-12 01:32:04 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 01:32:10 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 01:56:23 Error: [MissingActionException] Action PostsController::tst1() could not be found.
+#0 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-12 03:45:23 Error: [MissingActionException] Action PostsController::img_01.png() could not be found.
+#0 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-12 03:56:27 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 03:56:31 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 03:58:28 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 03:59:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 03:59:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 03:59:39 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:00:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:00:52 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:00:52 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:02:26 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:11:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:11:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:11:24 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:11:58 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:12:53 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:18:11 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:18:13 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:18:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:18:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:19:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:20:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:20:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:21:06 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:22:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:22:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 04:41:29 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 05:13:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 06:13:43 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 06:13:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 07:07:40 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 07:08:00 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 07:11:04 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 07:29:27 Error: [MissingActionException] Action PostsController::dnd.js() could not be found.
+#0 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-12 07:32:10 Error: [MissingActionException] Action PostsController::dnd.js() could not be found.
+#0 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-12 07:43:51 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 07:44:04 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 07:44:51 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 07:46:11 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 07:52:00 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 07:52:13 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 07:53:20 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 07:55:46 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 07:56:37 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 07:57:31 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 07:57:56 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 08:01:00 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 08:01:37 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-11-12 08:01:52 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 08:04:49 Error: [MissingViewException] View file "C:\xampp\htdocs\cake11\app\View\Posts\upload2.ctp" is missing.
+#0 C:\xampp\htdocs\cake11\lib\Cake\View\View.php(462): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cake11\lib\Cake\Controller\Controller.php(959): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(110): Controller->render()
+#3 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-11-12 11:33:22 Error: [MissingActionException] Action PostsController::Bespectacled-Owl-l.jpg() could not be found.
+#0 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-12 11:33:37 Error: [MissingActionException] Action PostsController::Bespectacled-Owl-l.jpg() could not be found.
+#0 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-12 11:35:36 Error: [MissingActionException] Action PostsController::Bespectacled-Owl-l.jpg() could not be found.
+#0 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-11-12 11:36:35 Error: [MissingActionException] Action PostsController::Bespectacled-Owl-l.jpg() could not be found.
+#0 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cake11\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cake11\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
